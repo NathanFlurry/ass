@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+	<i>ASS clenches so you don't have to</i>
+</p>
+
+<p align="center">
   <a href="#"><img alt="License: THICC-2.0" src="https://img.shields.io/badge/license-THICC--2.0-blue?style=flat-square"></a>
   <a href="#"><img alt="GitHub commit activity" src="https://img.shields.io/badge/commits-thicc-green?style=flat-square"/></a>
   <a href="#"><img alt="GitHub closed issues" src="https://img.shields.io/badge/issues-clenched-red?style=flat-square"/></a>
