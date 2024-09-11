@@ -1,5 +1,3 @@
-# 🍑 Autoscaling Server Service (ASS)
-
 <p align="center">
   <picture>
       <img src="./media/icon.png" alt="Rivet">
@@ -48,14 +46,14 @@ Write server-side logic using THICC++ (or use your own API server):
 
 ## 🚙 Supported Game Engines
 
-| Engine        | Plugin                    | Crash Course                |
-|---------------|---------------------------|---------------------------|
-| Godot         | ass-plugin-godot          | [Learn](https://ass.gg/learn/godot) |
-| Unity         | ass-plugin-unity          | [Learn](https://ass.gg/learn/unity) |
-| Unreal Engine | ass-plugin-unreal         | [Learn](https://ass.gg/learn/unreal) |
-| HTML5 & JS    | @ass-gg/api               | [Learn](https://ass.gg/learn/html5) |
-| Rust          | ass-api                   | [Learn](https://ass.gg/learn/custom) |
-| Other         | Just use the API, you ASS | [Learn](https://ass.gg/learn/custom) |
+| Engine        |
+|---------------|
+| Godot         |
+| Unity         |
+| Unreal Engine |
+| HTML5 & JS    |
+| Rust          |
+| Other         |
 
 ## 🚀 Getting Started
 
@@ -63,15 +61,11 @@ Write server-side logic using THICC++ (or use your own API server):
 2. Shake it
 3. Deploy it
 
-## 💬 Community & Support
-
-- **Discord**: Join our Dummy Thicc community at [ass.gg/discord](https://ass.gg/discord)
-- **X**: Follow [@ASS_gg](https://x.com/ASS_gg) for the latest shakes and wiggles
-- **Issues**: File bug reports and feature requests in our Issue Tracker (no, not that kind of tracker)
-
 ## 📐 Architecture
 
-Our architecture is THICC. Trust us, you don't wanna see it.
+Our architecture is THICC. Trust us, you'll really want to dive right in.
+
+![Architecture](./media/architecture.png)
 
 ## 🚫 What ASS is NOT
 
