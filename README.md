@@ -71,7 +71,7 @@ Write server-side logic using THICC++ (or use your own API server):
 | Cost              | Thicc value for your buck        | Hope you like ramen  | Affordable until you scale   | Hidden costs everywhere       | Your sanity + $$           |
 | Setup Time        | Faster than you can say "ASS"    | Slower than a sloth  | Drowning in droplets         | "It's been 84 years..."       | How's your weekend looking? |
 
-Remember: With ASS, there's no need to clench - we keep it tight so you don't have to! Why settle for less when you can have a piece of ASS? 🍑✨
+Remember: With ASS, there's no need to clench - we keep it tight so you don't have to. Why settle for less when you can have a piece of ASS?
 
 ## 📐 Architecture
 
