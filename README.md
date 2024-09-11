@@ -2,8 +2,7 @@
 
 <p align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./media/icon-text-white.svg" alt="Rivet">
-      <img src="./media/icon-text-black.svg" alt="Rivet">
+      <img src="./media/icon.png" alt="Rivet">
   </picture>
 </p>
 
