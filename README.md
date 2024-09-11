@@ -41,8 +41,7 @@ Asset delivery, game downloads, & website hosting:
 Write server-side logic using THICC++ (or use your own API server):
 
 - Modules include matchmaking, parties, authentication, & more
-- SQLite database included for persistence (because real databases are overrated)
-- Powered by Open Game Backend (OGB) - Open dat ASS up
+- Combine open-source modules to build your backend - Open dat ASS up
 
 ### 🚙 Supported Game Engines
 
