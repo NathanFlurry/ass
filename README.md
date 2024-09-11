@@ -61,7 +61,7 @@ Write server-side logic using THICC++ (or use your own API server):
 2. Shake it
 3. Deploy it
 
-## 🍑 vs 🤖 Why Choose ASS?
+## 🍑 vs 🫓: Why Choose ASS?
 
 | Feature           | ASS (Autoscaling Server Service) | AWS (A Wallet Sucker) | DigitalOcean (Droplet Drown) | Kubernetes (Komplicated Mess) | DIY (Disaster It Yourself) |
 |-------------------|----------------------------------|----------------------|------------------------------|-------------------------------|----------------------------|
