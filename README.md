@@ -54,7 +54,7 @@ Write server-side logic using THICC++ (or use your own API server):
 
 ## 🌶️ Endorsements
 
-- [ThePrimeagen](https://x.com/ThePrimeagen) says "A lot of people just don't learn a tool ... and then create another tool, which is just annoying" – [Clip](https://www.twitch.tv/theprimeagen/clip/FrigidHeartlessBananaRuleFive-MJmhAQ3gr2gcGSwX)
+- [ThePrimeagen](https://x.com/ThePrimeagen) says "A lot of people just don't learn a tool ... and then create another tool" – [Clip](https://www.twitch.tv/theprimeagen/clip/FrigidHeartlessBananaRuleFive-MJmhAQ3gr2gcGSwX)
 - [k8s.af](https://k8s.af) says "At least ASS won't make you cry as much as Kubernetes"
 - [AWS Pricing Calculator](https://calculator.aws/#/) says "We can't compete with these dummy thicc prices"
 
