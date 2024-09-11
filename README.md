@@ -44,16 +44,14 @@ Write server-side logic using THICC++ (or use your own API server):
 - SQLite database included for persistence (because real databases are overrated)
 - Powered by Open Game Backend (OGB) - Open dat ASS up
 
-## 🚙 Supported Game Engines
+### 🚙 Supported Game Engines
 
-| Engine        |
-|---------------|
-| Godot         |
-| Unity         |
-| Unreal Engine |
-| HTML5 & JS    |
-| Rust          |
-| Other         |
+- Godot
+- Unity
+- Unreal Engine
+- HTML5 & JS
+- Rust
+- Other
 
 ## 🚀 Getting Started
 
